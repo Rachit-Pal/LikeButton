@@ -11,6 +11,5 @@ The Like button is now also used by other social media platforms like YouTube, G
 
 ## ╔═━「 Creator Info 」
 
-+ [Rachit-Pal](https://github.com/Rachit-Pal) : OWNER | DEV
-+ [Saitama](https://t.me/SAlTAM4) : SUDO
++ [Rachit-Pal](https://github.com/Rachit-Pal) : CREATOR
 + [Straw Hat](https://github.com/StrawhatNetwork) : NETWORK
