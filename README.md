@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/6f23353796bc0b0e92b20.jpg" width="100%">
+<img src="https://telegra.ph/file/0b132a550d2583ea0af8a.gif" width="100%">
 
 # Like Button
 
